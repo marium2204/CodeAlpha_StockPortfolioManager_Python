@@ -1,4 +1,4 @@
-STOCK PORTFOLIO TRACKER
+#STOCK PORTFOLIO TRACKER
 The Stock Portfolio Manager is a Python application that allows users to manage their stock investments easily. Using the yfinance library, it fetches the latest stock prices and calculates the total value of the user's portfolio.<br><br>
 Key Features:<br>
 --> Users can add stocks to their portfolio by specifying the stock symbol and the number of shares.<br>
